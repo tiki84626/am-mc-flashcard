@@ -17,25 +17,31 @@ body {
 }
 
 .row {
-  padding-bottom: 4px;
+  margin-bottom: 10px;
 }
 
 .button {
   border: 2px solid black;
   font-size: 3em;
-  margin: 5px;
+  padding: 5px;
   background-color: white;
   font-variant: small-caps;
   text-align: center;
   color: black;
+}
+
+.button:hover {
+  background-color: #d1f9ff;
   cursor: pointer;
+  color: #ff3333;
 }
 
 .answer {
   text-align: center;
   font-size: 3em;
   border: 2px solid black;
-  color: red;
+  color: #ff3333;
+  margin-bottom: 13px;
 }
 
 .row-centered {
@@ -45,7 +51,6 @@ body {
 .col-centered {
   display: inline-block;
   float: none;
-  text-align: left;
   margin-right: -4px;
 }
 
