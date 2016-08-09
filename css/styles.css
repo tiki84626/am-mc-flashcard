@@ -1,0 +1,54 @@
+h1 {
+  text-align: center;
+  text-shadow: 3px 3px 1px grey;
+  font-variant: small-caps;
+  font-size: 4em;
+  font-style: italic;
+
+}
+h2 {
+  text-align: center;
+  padding-bottom: 60px;
+}
+body {
+  background-image: url(../img/background.jpg);
+  width: 100%;
+  height: auto;
+}
+
+.row {
+  padding-bottom: 4px;
+}
+
+.button {
+  border: 2px solid black;
+  font-size: 3em;
+  margin: 5px;
+  background-color: white;
+  font-variant: small-caps;
+  text-align: center;
+  color: black;
+  cursor: pointer;
+}
+
+.answer {
+  text-align: center;
+  font-size: 3em;
+  border: 2px solid black;
+  color: red;
+}
+
+.row-centered {
+  text-align: center;
+}
+
+.col-centered {
+  display: inline-block;
+  float: none;
+  text-align: left;
+  margin-right: -4px;
+}
+
+button.hover {
+
+}
