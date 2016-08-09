@@ -1,0 +1,125 @@
+<div class="buttons">
+        <div class="row">
+          <div class="col-md-4">
+            <a class="showSingle" target="1">JavaScript</a>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Operators</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Variables</p></span>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Arguments</p><span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Functions</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Methods</p></span>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Parameters</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Return</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Strings</p></span>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Booleans</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Undefined</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">NaN</p></span>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Escape</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Alert</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Comments</p></span>
+          </div>
+        </div>
+      </div>
+<!--End Show Flashcard Div  -->
+<!--Begin Hide Flashcard Div  -->
+      <div class="hide-flashcard">
+        <div class="row">
+          <div class="col-md-4 flashcard targetDiv" id="div1">
+            <span class="clickable"><p class="terms">Javascript Answer</p></span>
+          </div>
+
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Operators Answer</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Variables Answer</p></span>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Arguments Answer</p><span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Functions Answer</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Methods Answer</p></span>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Parameters Answer</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Return Answer</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Strings Answer</p></span>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Booleans Answer</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Undefined Answer</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">NaN Answer</p></span>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Escape Answer</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Alert Answer</p></span>
+          </div>
+          <div class="col-md-4 flashcard">
+            <span class="clickable"><p class="terms">Comments Answer</p></span>
+          </div>
+        </div>
+      </div>

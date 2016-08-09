@@ -18,12 +18,13 @@ body {
 
 .row {
   margin-bottom: 10px;
+
 }
 
 .button {
   border: 2px solid black;
   font-size: 3em;
-  padding: 5px;
+  margin: 5px;
   background-color: white;
   font-variant: small-caps;
   text-align: center;
@@ -42,6 +43,7 @@ body {
   border: 2px solid black;
   color: #ff3333;
   margin-bottom: 13px;
+
 }
 
 .row-centered {
